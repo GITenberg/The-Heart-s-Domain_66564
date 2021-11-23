@@ -6,6 +6,9 @@ contributor:
     alias: Brooks, E. S. (Eleanor Stimson)
     gutenberg_agent_id: '53869'
     url: http://www.gutenberg.org/2009/agents/53869
+covers:
+- cover_type: archival
+  image_path: 66564-h/images/cover.jpg
 creator:
   author:
     agent_name: Duhamel, Georges
@@ -20,6 +23,8 @@ creator:
     - https://en.wikipedia.org/wiki/Georges_Duhamel
     - https://fr.wikipedia.org/wiki/Georges_Duhamel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66564#The-Heart-s-Domain
 gutenberg_issued: '2021-10-18'
 identifiers:
   gutenberg: '66564'
